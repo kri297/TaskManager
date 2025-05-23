@@ -1,4 +1,4 @@
-Task Manager in Python
+# Task Manager in Python
 A terminal-based Task Manager application built with Python that helps you manage your daily to-dos efficiently. 
 It supports task scheduling with deadlines, marking tasks as complete, viewing summaries, analyzing productivity, auto-saving/loading data, and exporting your tasks.
 🚀 Features
